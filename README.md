@@ -9,7 +9,6 @@ It can probably handle much larger requests if run on Linux with better CPU and 
 
 - Handle URI
 - Add Cookie System
-- Serve Static Files
 - ## Advanced Features to be implemented
     - Template Engine (make my own or use existing one)
     - Build Blueprints
